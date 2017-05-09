@@ -83,6 +83,5 @@ public class Main {
         gumballMachine.turnCrank();
 
         System.out.println(gumballMachine);
-
     }
 }
